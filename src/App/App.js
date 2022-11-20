@@ -1,5 +1,9 @@
+import SignIn from "../pages/signIn";
+
 function App() {
-  return <div className="App">app</div>;
+  return <>
+    <SignIn />
+  </>;
 }
 
 export default App;
